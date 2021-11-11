@@ -1,9 +1,8 @@
 # Portofolio APP SKL ke-3 IDN
 
 ##  Minggu ke-1 2021 saya telah belajar:
-* Saya telah belajar  Activity Main.
-<img width="174" alt="Screen Shot 2021-11-09 at 15 02 44" src="https://user-images.githubusercontent.com/68719137/141064901-f6d8c6c1-9591-4822-9383-e341bf313f75.png">
-
+* Saya telah belajar Android Studio Activity Main.
+<img width="292" alt="Screen Shot 2021-11-11 at 10 44 33" src="https://user-images.githubusercontent.com/82301679/141233684-c1bf9f34-1559-44da-8b87-e76ce708fbed.png">
 
 * Saya telah belajar Menambahkan Fragment Ke Nav Graph.
 <img width="173" alt="Screen Shot 2021-11-09 at 15 02 34" src="https://user-images.githubusercontent.com/68719137/141067111-be4b31c1-aaac-4634-ac1c-2c331da94c36.png">
